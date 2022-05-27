@@ -26,3 +26,4 @@ Our line graph shows that the average fare of each city type is farely consisten
 If changes in fares that occured during April is due to a yearly event, we could incentivize urban and rural drivers to offer rides in suburban areas considering the fares for the two latter city types are reduced during this time. 
 
 The total ride percentage of rural and suburban city types is higher than the total drivers percentage of these city types. This lack of supply of drivers in urban and suburban areas could be the reason for the fares being higher in these city types. We could offer incentives to drivers to work urban and suburban drivers to help balance out the supply of drivers and fares.
+
